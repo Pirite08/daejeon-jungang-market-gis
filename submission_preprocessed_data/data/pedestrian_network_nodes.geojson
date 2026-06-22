@@ -1,0 +1,727 @@
+{
+  "type": "FeatureCollection",
+  "name": "network_nodes_user_final",
+  "description": "Final user-placed pedestrian network nodes for Daejeon Jungang Market.",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          127.43098318576814,
+          36.328450268783165
+        ]
+      },
+      "properties": {
+        "node_id": "G001",
+        "node_type": "entrance",
+        "name": "G001 entrance candidate",
+        "is_entrance": 1,
+        "is_major": 1,
+        "note": "User placed node on visible market street or pedestrian junction. Used as final pedestrian network base.",
+        "source": "user_placed_leaflet_node",
+        "confidence": "high"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          127.43389070034029,
+          36.32632393447777
+        ]
+      },
+      "properties": {
+        "node_id": "G002",
+        "node_type": "entrance",
+        "name": "G002 entrance candidate",
+        "is_entrance": 1,
+        "is_major": 1,
+        "note": "User placed node on visible market street or pedestrian junction. Used as final pedestrian network base.",
+        "source": "user_placed_leaflet_node",
+        "confidence": "high"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          127.43302166461946,
+          36.33029995956217
+        ]
+      },
+      "properties": {
+        "node_id": "G003",
+        "node_type": "entrance",
+        "name": "G003 entrance candidate",
+        "is_entrance": 1,
+        "is_major": 1,
+        "note": "User placed node on visible market street or pedestrian junction. Used as final pedestrian network base.",
+        "source": "user_placed_leaflet_node",
+        "confidence": "high"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          127.43127822875978,
+          36.329634421675756
+        ]
+      },
+      "properties": {
+        "node_id": "N001",
+        "node_type": "junction",
+        "name": "N001 user placed walkway node",
+        "is_entrance": 0,
+        "is_major": 0,
+        "note": "User placed node on visible market street or pedestrian junction. Used as final pedestrian network base.",
+        "source": "user_placed_leaflet_node",
+        "confidence": "high"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          127.4319112300873,
+          36.3298764361104
+        ]
+      },
+      "properties": {
+        "node_id": "N002",
+        "node_type": "junction",
+        "name": "N002 user placed walkway node",
+        "is_entrance": 0,
+        "is_major": 0,
+        "note": "User placed node on visible market street or pedestrian junction. Used as final pedestrian network base.",
+        "source": "user_placed_leaflet_node",
+        "confidence": "high"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          127.43217408657075,
+          36.32941833672389
+        ]
+      },
+      "properties": {
+        "node_id": "N003",
+        "node_type": "junction",
+        "name": "N003 user placed walkway node",
+        "is_entrance": 0,
+        "is_major": 0,
+        "note": "User placed node on visible market street or pedestrian junction. Used as final pedestrian network base.",
+        "source": "user_placed_leaflet_node",
+        "confidence": "high"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          127.43151426315309,
+          36.32918928602059
+        ]
+      },
+      "properties": {
+        "node_id": "N004",
+        "node_type": "junction",
+        "name": "N004 user placed walkway node",
+        "is_entrance": 0,
+        "is_major": 0,
+        "note": "User placed node on visible market street or pedestrian junction. Used as final pedestrian network base.",
+        "source": "user_placed_leaflet_node",
+        "confidence": "high"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          127.43174493312837,
+          36.32871821736343
+        ]
+      },
+      "properties": {
+        "node_id": "N005",
+        "node_type": "junction",
+        "name": "N005 user placed walkway node",
+        "is_entrance": 0,
+        "is_major": 0,
+        "note": "User placed node on visible market street or pedestrian junction. Used as final pedestrian network base.",
+        "source": "user_placed_leaflet_node",
+        "confidence": "high"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          127.43243694305421,
+          36.32896887810433
+        ]
+      },
+      "properties": {
+        "node_id": "N006",
+        "node_type": "junction",
+        "name": "N006 user placed walkway node",
+        "is_entrance": 0,
+        "is_major": 0,
+        "note": "User placed node on visible market street or pedestrian junction. Used as final pedestrian network base.",
+        "source": "user_placed_leaflet_node",
+        "confidence": "high"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          127.43285536766054,
+          36.32913310366978
+        ]
+      },
+      "properties": {
+        "node_id": "N007",
+        "node_type": "junction",
+        "name": "N007 user placed walkway node",
+        "is_entrance": 0,
+        "is_major": 0,
+        "note": "User placed node on visible market street or pedestrian junction. Used as final pedestrian network base.",
+        "source": "user_placed_leaflet_node",
+        "confidence": "high"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          127.43258714675905,
+          36.32957391794965
+        ]
+      },
+      "properties": {
+        "node_id": "N008",
+        "node_type": "junction",
+        "name": "N008 user placed walkway node",
+        "is_entrance": 0,
+        "is_major": 0,
+        "note": "User placed node on visible market street or pedestrian junction. Used as final pedestrian network base.",
+        "source": "user_placed_leaflet_node",
+        "confidence": "high"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          127.43229746818544,
+          36.33003633809232
+        ]
+      },
+      "properties": {
+        "node_id": "N009",
+        "node_type": "junction",
+        "name": "N009 user placed walkway node",
+        "is_entrance": 0,
+        "is_major": 0,
+        "note": "User placed node on visible market street or pedestrian junction. Used as final pedestrian network base.",
+        "source": "user_placed_leaflet_node",
+        "confidence": "high"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          127.43201851844789,
+          36.33044689573202
+        ]
+      },
+      "properties": {
+        "node_id": "N010",
+        "node_type": "junction",
+        "name": "N010 user placed walkway node",
+        "is_entrance": 0,
+        "is_major": 0,
+        "note": "User placed node on visible market street or pedestrian junction. Used as final pedestrian network base.",
+        "source": "user_placed_leaflet_node",
+        "confidence": "high"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          127.43167519569397,
+          36.330325889494624
+        ]
+      },
+      "properties": {
+        "node_id": "N011",
+        "node_type": "junction",
+        "name": "N011 user placed walkway node",
+        "is_entrance": 0,
+        "is_major": 0,
+        "note": "User placed node on visible market street or pedestrian junction. Used as final pedestrian network base.",
+        "source": "user_placed_leaflet_node",
+        "confidence": "high"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          127.43103146553041,
+          36.33007523311936
+        ]
+      },
+      "properties": {
+        "node_id": "N012",
+        "node_type": "junction",
+        "name": "N012 user placed walkway node",
+        "is_entrance": 0,
+        "is_major": 0,
+        "note": "User placed node on visible market street or pedestrian junction. Used as final pedestrian network base.",
+        "source": "user_placed_leaflet_node",
+        "confidence": "high"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          127.43002831935884,
+          36.32970789042289
+        ]
+      },
+      "properties": {
+        "node_id": "N013",
+        "node_type": "junction",
+        "name": "N013 user placed walkway node",
+        "is_entrance": 0,
+        "is_major": 0,
+        "note": "User placed node on visible market street or pedestrian junction. Used as final pedestrian network base.",
+        "source": "user_placed_leaflet_node",
+        "confidence": "high"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          127.43037700653078,
+          36.32926275518746
+        ]
+      },
+      "properties": {
+        "node_id": "N014",
+        "node_type": "junction",
+        "name": "N014 user placed walkway node",
+        "is_entrance": 0,
+        "is_major": 0,
+        "note": "User placed node on visible market street or pedestrian junction. Used as final pedestrian network base.",
+        "source": "user_placed_leaflet_node",
+        "confidence": "high"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          127.43066668510438,
+          36.32889108692621
+        ]
+      },
+      "properties": {
+        "node_id": "N015",
+        "node_type": "junction",
+        "name": "N015 user placed walkway node",
+        "is_entrance": 0,
+        "is_major": 0,
+        "note": "User placed node on visible market street or pedestrian junction. Used as final pedestrian network base.",
+        "source": "user_placed_leaflet_node",
+        "confidence": "high"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          127.43132114410402,
+          36.32798351744278
+        ]
+      },
+      "properties": {
+        "node_id": "N016",
+        "node_type": "junction",
+        "name": "N016 user placed walkway node",
+        "is_entrance": 0,
+        "is_major": 0,
+        "note": "User placed node on visible market street or pedestrian junction. Used as final pedestrian network base.",
+        "source": "user_placed_leaflet_node",
+        "confidence": "high"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          127.43202924728394,
+          36.32823850231781
+        ]
+      },
+      "properties": {
+        "node_id": "N017",
+        "node_type": "junction",
+        "name": "N017 user placed walkway node",
+        "is_entrance": 0,
+        "is_major": 0,
+        "note": "User placed node on visible market street or pedestrian junction. Used as final pedestrian network base.",
+        "source": "user_placed_leaflet_node",
+        "confidence": "high"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          127.4327051639557,
+          36.328480521088366
+        ]
+      },
+      "properties": {
+        "node_id": "N018",
+        "node_type": "junction",
+        "name": "N018 user placed walkway node",
+        "is_entrance": 0,
+        "is_major": 0,
+        "note": "User placed node on visible market street or pedestrian junction. Used as final pedestrian network base.",
+        "source": "user_placed_leaflet_node",
+        "confidence": "high"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          127.43313431739809,
+          36.32861881719117
+        ]
+      },
+      "properties": {
+        "node_id": "N019",
+        "node_type": "junction",
+        "name": "N019 user placed walkway node",
+        "is_entrance": 0,
+        "is_major": 0,
+        "note": "User placed node on visible market street or pedestrian junction. Used as final pedestrian network base.",
+        "source": "user_placed_leaflet_node",
+        "confidence": "high"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          127.43384242057802,
+          36.32885651304434
+        ]
+      },
+      "properties": {
+        "node_id": "N020",
+        "node_type": "junction",
+        "name": "N020 user placed walkway node",
+        "is_entrance": 0,
+        "is_major": 0,
+        "note": "User placed node on visible market street or pedestrian junction. Used as final pedestrian network base.",
+        "source": "user_placed_leaflet_node",
+        "confidence": "high"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          127.43355274200441,
+          36.32937079795403
+        ]
+      },
+      "properties": {
+        "node_id": "N021",
+        "node_type": "junction",
+        "name": "N021 user placed walkway node",
+        "is_entrance": 0,
+        "is_major": 0,
+        "note": "User placed node on visible market street or pedestrian junction. Used as final pedestrian network base.",
+        "source": "user_placed_leaflet_node",
+        "confidence": "high"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          127.43328988552095,
+          36.32979864583839
+        ]
+      },
+      "properties": {
+        "node_id": "N022",
+        "node_type": "junction",
+        "name": "N022 user placed walkway node",
+        "is_entrance": 0,
+        "is_major": 0,
+        "note": "User placed node on visible market street or pedestrian junction. Used as final pedestrian network base.",
+        "source": "user_placed_leaflet_node",
+        "confidence": "high"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          127.43278563022615,
+          36.33071915907895
+        ]
+      },
+      "properties": {
+        "node_id": "N023",
+        "node_type": "junction",
+        "name": "N023 user placed walkway node",
+        "is_entrance": 0,
+        "is_major": 0,
+        "note": "User placed node on visible market street or pedestrian junction. Used as final pedestrian network base.",
+        "source": "user_placed_leaflet_node",
+        "confidence": "high"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          127.43277490139009,
+          36.33074076724033
+        ]
+      },
+      "properties": {
+        "node_id": "N024",
+        "node_type": "junction",
+        "name": "N024 user placed walkway node",
+        "is_entrance": 0,
+        "is_major": 0,
+        "note": "User placed node on visible market street or pedestrian junction. Used as final pedestrian network base.",
+        "source": "user_placed_leaflet_node",
+        "confidence": "high"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          127.43345081806184,
+          36.32806995308713
+        ]
+      },
+      "properties": {
+        "node_id": "N025",
+        "node_type": "junction",
+        "name": "N025 user placed walkway node",
+        "is_entrance": 0,
+        "is_major": 0,
+        "note": "User placed node on visible market street or pedestrian junction. Used as final pedestrian network base.",
+        "source": "user_placed_leaflet_node",
+        "confidence": "high"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          127.43415355682374,
+          36.32833358121019
+        ]
+      },
+      "properties": {
+        "node_id": "N026",
+        "node_type": "junction",
+        "name": "N026 user placed walkway node",
+        "is_entrance": 0,
+        "is_major": 0,
+        "note": "User placed node on visible market street or pedestrian junction. Used as final pedestrian network base.",
+        "source": "user_placed_leaflet_node",
+        "confidence": "high"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          127.43303775787355,
+          36.32789708170256
+        ]
+      },
+      "properties": {
+        "node_id": "N027",
+        "node_type": "junction",
+        "name": "N027 user placed walkway node",
+        "is_entrance": 0,
+        "is_major": 0,
+        "note": "User placed node on visible market street or pedestrian junction. Used as final pedestrian network base.",
+        "source": "user_placed_leaflet_node",
+        "confidence": "high"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          127.43238866329195,
+          36.32765938292253
+        ]
+      },
+      "properties": {
+        "node_id": "N028",
+        "node_type": "junction",
+        "name": "N028 user placed walkway node",
+        "is_entrance": 0,
+        "is_major": 0,
+        "note": "User placed node on visible market street or pedestrian junction. Used as final pedestrian network base.",
+        "source": "user_placed_leaflet_node",
+        "confidence": "high"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          127.43180930614473,
+          36.327426005233036
+        ]
+      },
+      "properties": {
+        "node_id": "N029",
+        "node_type": "junction",
+        "name": "N029 user placed walkway node",
+        "is_entrance": 0,
+        "is_major": 0,
+        "note": "User placed node on visible market street or pedestrian junction. Used as final pedestrian network base.",
+        "source": "user_placed_leaflet_node",
+        "confidence": "high"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          127.43252277374269,
+          36.32654002801121
+        ]
+      },
+      "properties": {
+        "node_id": "N030",
+        "node_type": "junction",
+        "name": "N030 user placed walkway node",
+        "is_entrance": 0,
+        "is_major": 0,
+        "note": "User placed node on visible market street or pedestrian junction. Used as final pedestrian network base.",
+        "source": "user_placed_leaflet_node",
+        "confidence": "high"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          127.43355810642244,
+          36.32692899486129
+        ]
+      },
+      "properties": {
+        "node_id": "N031",
+        "node_type": "junction",
+        "name": "N031 user placed walkway node",
+        "is_entrance": 0,
+        "is_major": 0,
+        "note": "User placed node on visible market street or pedestrian junction. Used as final pedestrian network base.",
+        "source": "user_placed_leaflet_node",
+        "confidence": "high"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          127.43399798870088,
+          36.327088902892015
+        ]
+      },
+      "properties": {
+        "node_id": "N032",
+        "node_type": "junction",
+        "name": "N032 user placed walkway node",
+        "is_entrance": 0,
+        "is_major": 0,
+        "note": "User placed node on visible market street or pedestrian junction. Used as final pedestrian network base.",
+        "source": "user_placed_leaflet_node",
+        "confidence": "high"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          127.43473291397096,
+          36.32737846524764
+        ]
+      },
+      "properties": {
+        "node_id": "N033",
+        "node_type": "junction",
+        "name": "N033 user placed walkway node",
+        "is_entrance": 0,
+        "is_major": 0,
+        "note": "User placed node on visible market street or pedestrian junction. Used as final pedestrian network base.",
+        "source": "user_placed_leaflet_node",
+        "confidence": "high"
+      }
+    }
+  ]
+}

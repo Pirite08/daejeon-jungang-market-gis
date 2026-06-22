@@ -1,0 +1,1776 @@
+{
+  "type": "FeatureCollection",
+  "name": "network_edges_user_final_manual_design",
+  "description": "Final pedestrian network edges designed from user-placed nodes and submitted screenshot street geometry.",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            127.43002831935884,
+            36.32970789042289
+          ],
+          [
+            127.43103146553041,
+            36.33007523311936
+          ]
+        ]
+      },
+      "properties": {
+        "edge_id": "E001",
+        "from_node": "N013",
+        "to_node": "N012",
+        "length_m": 99,
+        "width_level": 2,
+        "is_main_aisle": 0,
+        "is_inner_alley": 0,
+        "cognitive_cost": 2,
+        "note": "Visible market street connection from user placed nodes.",
+        "source": "user_nodes_manual_network_design_from_screenshot",
+        "confidence": "medium"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            127.43103146553041,
+            36.33007523311936
+          ],
+          [
+            127.43167519569397,
+            36.330325889494624
+          ]
+        ]
+      },
+      "properties": {
+        "edge_id": "E002",
+        "from_node": "N012",
+        "to_node": "N011",
+        "length_m": 64,
+        "width_level": 2,
+        "is_main_aisle": 0,
+        "is_inner_alley": 0,
+        "cognitive_cost": 2,
+        "note": "Visible market street connection from user placed nodes.",
+        "source": "user_nodes_manual_network_design_from_screenshot",
+        "confidence": "high"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            127.43167519569397,
+            36.330325889494624
+          ],
+          [
+            127.43201851844789,
+            36.33044689573202
+          ]
+        ]
+      },
+      "properties": {
+        "edge_id": "E003",
+        "from_node": "N011",
+        "to_node": "N010",
+        "length_m": 34,
+        "width_level": 2,
+        "is_main_aisle": 0,
+        "is_inner_alley": 0,
+        "cognitive_cost": 2,
+        "note": "Visible market street connection from user placed nodes.",
+        "source": "user_nodes_manual_network_design_from_screenshot",
+        "confidence": "high"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            127.43201851844789,
+            36.33044689573202
+          ],
+          [
+            127.43277490139009,
+            36.33074076724033
+          ]
+        ]
+      },
+      "properties": {
+        "edge_id": "E004",
+        "from_node": "N010",
+        "to_node": "N024",
+        "length_m": 75,
+        "width_level": 2,
+        "is_main_aisle": 0,
+        "is_inner_alley": 0,
+        "cognitive_cost": 2,
+        "note": "Visible market street connection from user placed nodes.",
+        "source": "user_nodes_manual_network_design_from_screenshot",
+        "confidence": "high"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            127.43277490139009,
+            36.33074076724033
+          ],
+          [
+            127.43278563022615,
+            36.33071915907895
+          ]
+        ]
+      },
+      "properties": {
+        "edge_id": "E005",
+        "from_node": "N024",
+        "to_node": "N023",
+        "length_m": 3,
+        "width_level": 2,
+        "is_main_aisle": 1,
+        "is_inner_alley": 0,
+        "cognitive_cost": 2,
+        "note": "Entrance/access connection from user placed nodes.",
+        "source": "user_nodes_manual_network_design_from_screenshot",
+        "confidence": "high"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            127.43278563022615,
+            36.33071915907895
+          ],
+          [
+            127.43302166461946,
+            36.33029995956217
+          ]
+        ]
+      },
+      "properties": {
+        "edge_id": "E006",
+        "from_node": "N023",
+        "to_node": "G003",
+        "length_m": 51,
+        "width_level": 2,
+        "is_main_aisle": 1,
+        "is_inner_alley": 0,
+        "cognitive_cost": 2,
+        "note": "Entrance/access connection from user placed nodes.",
+        "source": "user_nodes_manual_network_design_from_screenshot",
+        "confidence": "high"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            127.43037700653078,
+            36.32926275518746
+          ],
+          [
+            127.43127822875978,
+            36.329634421675756
+          ]
+        ]
+      },
+      "properties": {
+        "edge_id": "E007",
+        "from_node": "N014",
+        "to_node": "N001",
+        "length_m": 91,
+        "width_level": 2,
+        "is_main_aisle": 0,
+        "is_inner_alley": 0,
+        "cognitive_cost": 2,
+        "note": "Visible market street connection from user placed nodes.",
+        "source": "user_nodes_manual_network_design_from_screenshot",
+        "confidence": "medium"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            127.43127822875978,
+            36.329634421675756
+          ],
+          [
+            127.4319112300873,
+            36.3298764361104
+          ]
+        ]
+      },
+      "properties": {
+        "edge_id": "E008",
+        "from_node": "N001",
+        "to_node": "N002",
+        "length_m": 63,
+        "width_level": 2,
+        "is_main_aisle": 0,
+        "is_inner_alley": 0,
+        "cognitive_cost": 2,
+        "note": "Visible market street connection from user placed nodes.",
+        "source": "user_nodes_manual_network_design_from_screenshot",
+        "confidence": "high"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            127.4319112300873,
+            36.3298764361104
+          ],
+          [
+            127.43229746818544,
+            36.33003633809232
+          ]
+        ]
+      },
+      "properties": {
+        "edge_id": "E009",
+        "from_node": "N002",
+        "to_node": "N009",
+        "length_m": 39,
+        "width_level": 2,
+        "is_main_aisle": 0,
+        "is_inner_alley": 0,
+        "cognitive_cost": 2,
+        "note": "Visible market street connection from user placed nodes.",
+        "source": "user_nodes_manual_network_design_from_screenshot",
+        "confidence": "high"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            127.43229746818544,
+            36.33003633809232
+          ],
+          [
+            127.43328988552095,
+            36.32979864583839
+          ]
+        ]
+      },
+      "properties": {
+        "edge_id": "E010",
+        "from_node": "N009",
+        "to_node": "N022",
+        "length_m": 93,
+        "width_level": 2,
+        "is_main_aisle": 0,
+        "is_inner_alley": 0,
+        "cognitive_cost": 2,
+        "note": "Visible market street connection from user placed nodes.",
+        "source": "user_nodes_manual_network_design_from_screenshot",
+        "confidence": "medium"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            127.43328988552095,
+            36.32979864583839
+          ],
+          [
+            127.43302166461946,
+            36.33029995956217
+          ]
+        ]
+      },
+      "properties": {
+        "edge_id": "E011",
+        "from_node": "N022",
+        "to_node": "G003",
+        "length_m": 61,
+        "width_level": 2,
+        "is_main_aisle": 1,
+        "is_inner_alley": 0,
+        "cognitive_cost": 2,
+        "note": "Entrance/access connection from user placed nodes.",
+        "source": "user_nodes_manual_network_design_from_screenshot",
+        "confidence": "high"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            127.43066668510438,
+            36.32889108692621
+          ],
+          [
+            127.43151426315309,
+            36.32918928602059
+          ]
+        ]
+      },
+      "properties": {
+        "edge_id": "E012",
+        "from_node": "N015",
+        "to_node": "N004",
+        "length_m": 83,
+        "width_level": 3,
+        "is_main_aisle": 1,
+        "is_inner_alley": 0,
+        "cognitive_cost": 1,
+        "note": "Main visible pedestrian/road axis from user placed nodes.",
+        "source": "user_nodes_manual_network_design_from_screenshot",
+        "confidence": "high"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            127.43151426315309,
+            36.32918928602059
+          ],
+          [
+            127.43217408657075,
+            36.32941833672389
+          ]
+        ]
+      },
+      "properties": {
+        "edge_id": "E013",
+        "from_node": "N004",
+        "to_node": "N003",
+        "length_m": 64,
+        "width_level": 3,
+        "is_main_aisle": 1,
+        "is_inner_alley": 0,
+        "cognitive_cost": 1,
+        "note": "Main visible pedestrian/road axis from user placed nodes.",
+        "source": "user_nodes_manual_network_design_from_screenshot",
+        "confidence": "high"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            127.43217408657075,
+            36.32941833672389
+          ],
+          [
+            127.43258714675905,
+            36.32957391794965
+          ]
+        ]
+      },
+      "properties": {
+        "edge_id": "E014",
+        "from_node": "N003",
+        "to_node": "N008",
+        "length_m": 41,
+        "width_level": 3,
+        "is_main_aisle": 1,
+        "is_inner_alley": 0,
+        "cognitive_cost": 1,
+        "note": "Main visible pedestrian/road axis from user placed nodes.",
+        "source": "user_nodes_manual_network_design_from_screenshot",
+        "confidence": "high"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            127.43258714675905,
+            36.32957391794965
+          ],
+          [
+            127.43355274200441,
+            36.32937079795403
+          ]
+        ]
+      },
+      "properties": {
+        "edge_id": "E015",
+        "from_node": "N008",
+        "to_node": "N021",
+        "length_m": 89,
+        "width_level": 3,
+        "is_main_aisle": 1,
+        "is_inner_alley": 0,
+        "cognitive_cost": 1,
+        "note": "Main visible pedestrian/road axis from user placed nodes.",
+        "source": "user_nodes_manual_network_design_from_screenshot",
+        "confidence": "medium"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            127.43098318576814,
+            36.328450268783165
+          ],
+          [
+            127.43174493312837,
+            36.32871821736343
+          ]
+        ]
+      },
+      "properties": {
+        "edge_id": "E016",
+        "from_node": "G001",
+        "to_node": "N005",
+        "length_m": 74,
+        "width_level": 3,
+        "is_main_aisle": 1,
+        "is_inner_alley": 0,
+        "cognitive_cost": 1,
+        "note": "Main visible pedestrian/road axis from user placed nodes.",
+        "source": "user_nodes_manual_network_design_from_screenshot",
+        "confidence": "high"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            127.43174493312837,
+            36.32871821736343
+          ],
+          [
+            127.43243694305421,
+            36.32896887810433
+          ]
+        ]
+      },
+      "properties": {
+        "edge_id": "E017",
+        "from_node": "N005",
+        "to_node": "N006",
+        "length_m": 68,
+        "width_level": 3,
+        "is_main_aisle": 1,
+        "is_inner_alley": 0,
+        "cognitive_cost": 1,
+        "note": "Main visible pedestrian/road axis from user placed nodes.",
+        "source": "user_nodes_manual_network_design_from_screenshot",
+        "confidence": "high"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            127.43243694305421,
+            36.32896887810433
+          ],
+          [
+            127.43285536766054,
+            36.32913310366978
+          ]
+        ]
+      },
+      "properties": {
+        "edge_id": "E018",
+        "from_node": "N006",
+        "to_node": "N007",
+        "length_m": 42,
+        "width_level": 3,
+        "is_main_aisle": 1,
+        "is_inner_alley": 0,
+        "cognitive_cost": 1,
+        "note": "Main visible pedestrian/road axis from user placed nodes.",
+        "source": "user_nodes_manual_network_design_from_screenshot",
+        "confidence": "high"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            127.43285536766054,
+            36.32913310366978
+          ],
+          [
+            127.43384242057802,
+            36.32885651304434
+          ]
+        ]
+      },
+      "properties": {
+        "edge_id": "E019",
+        "from_node": "N007",
+        "to_node": "N020",
+        "length_m": 94,
+        "width_level": 3,
+        "is_main_aisle": 1,
+        "is_inner_alley": 0,
+        "cognitive_cost": 1,
+        "note": "Main visible pedestrian/road axis from user placed nodes.",
+        "source": "user_nodes_manual_network_design_from_screenshot",
+        "confidence": "medium"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            127.43132114410402,
+            36.32798351744278
+          ],
+          [
+            127.43202924728394,
+            36.32823850231781
+          ]
+        ]
+      },
+      "properties": {
+        "edge_id": "E020",
+        "from_node": "N016",
+        "to_node": "N017",
+        "length_m": 69,
+        "width_level": 2,
+        "is_main_aisle": 0,
+        "is_inner_alley": 0,
+        "cognitive_cost": 2,
+        "note": "Visible market street connection from user placed nodes.",
+        "source": "user_nodes_manual_network_design_from_screenshot",
+        "confidence": "high"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            127.43202924728394,
+            36.32823850231781
+          ],
+          [
+            127.4327051639557,
+            36.328480521088366
+          ]
+        ]
+      },
+      "properties": {
+        "edge_id": "E021",
+        "from_node": "N017",
+        "to_node": "N018",
+        "length_m": 66,
+        "width_level": 2,
+        "is_main_aisle": 0,
+        "is_inner_alley": 0,
+        "cognitive_cost": 2,
+        "note": "Visible market street connection from user placed nodes.",
+        "source": "user_nodes_manual_network_design_from_screenshot",
+        "confidence": "high"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            127.4327051639557,
+            36.328480521088366
+          ],
+          [
+            127.43313431739809,
+            36.32861881719117
+          ]
+        ]
+      },
+      "properties": {
+        "edge_id": "E022",
+        "from_node": "N018",
+        "to_node": "N019",
+        "length_m": 41,
+        "width_level": 2,
+        "is_main_aisle": 0,
+        "is_inner_alley": 0,
+        "cognitive_cost": 2,
+        "note": "Visible market street connection from user placed nodes.",
+        "source": "user_nodes_manual_network_design_from_screenshot",
+        "confidence": "high"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            127.43313431739809,
+            36.32861881719117
+          ],
+          [
+            127.43415355682374,
+            36.32833358121019
+          ]
+        ]
+      },
+      "properties": {
+        "edge_id": "E023",
+        "from_node": "N019",
+        "to_node": "N026",
+        "length_m": 97,
+        "width_level": 2,
+        "is_main_aisle": 0,
+        "is_inner_alley": 0,
+        "cognitive_cost": 2,
+        "note": "Visible market street connection from user placed nodes.",
+        "source": "user_nodes_manual_network_design_from_screenshot",
+        "confidence": "medium"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            127.43180930614473,
+            36.327426005233036
+          ],
+          [
+            127.43238866329195,
+            36.32765938292253
+          ]
+        ]
+      },
+      "properties": {
+        "edge_id": "E024",
+        "from_node": "N029",
+        "to_node": "N028",
+        "length_m": 58,
+        "width_level": 2,
+        "is_main_aisle": 0,
+        "is_inner_alley": 0,
+        "cognitive_cost": 2,
+        "note": "Visible market street connection from user placed nodes.",
+        "source": "user_nodes_manual_network_design_from_screenshot",
+        "confidence": "high"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            127.43238866329195,
+            36.32765938292253
+          ],
+          [
+            127.43303775787355,
+            36.32789708170256
+          ]
+        ]
+      },
+      "properties": {
+        "edge_id": "E025",
+        "from_node": "N028",
+        "to_node": "N027",
+        "length_m": 64,
+        "width_level": 2,
+        "is_main_aisle": 0,
+        "is_inner_alley": 0,
+        "cognitive_cost": 2,
+        "note": "Visible market street connection from user placed nodes.",
+        "source": "user_nodes_manual_network_design_from_screenshot",
+        "confidence": "high"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            127.43303775787355,
+            36.32789708170256
+          ],
+          [
+            127.43345081806184,
+            36.32806995308713
+          ]
+        ]
+      },
+      "properties": {
+        "edge_id": "E026",
+        "from_node": "N027",
+        "to_node": "N025",
+        "length_m": 42,
+        "width_level": 2,
+        "is_main_aisle": 0,
+        "is_inner_alley": 0,
+        "cognitive_cost": 2,
+        "note": "Visible market street connection from user placed nodes.",
+        "source": "user_nodes_manual_network_design_from_screenshot",
+        "confidence": "high"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            127.43345081806184,
+            36.32806995308713
+          ],
+          [
+            127.43473291397096,
+            36.32737846524764
+          ]
+        ]
+      },
+      "properties": {
+        "edge_id": "E027",
+        "from_node": "N025",
+        "to_node": "N033",
+        "length_m": 138,
+        "width_level": 2,
+        "is_main_aisle": 0,
+        "is_inner_alley": 0,
+        "cognitive_cost": 2,
+        "note": "Visible market street connection from user placed nodes.",
+        "source": "user_nodes_manual_network_design_from_screenshot",
+        "confidence": "medium"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            127.43252277374269,
+            36.32654002801121
+          ],
+          [
+            127.43355810642244,
+            36.32692899486129
+          ]
+        ]
+      },
+      "properties": {
+        "edge_id": "E028",
+        "from_node": "N030",
+        "to_node": "N031",
+        "length_m": 102,
+        "width_level": 2,
+        "is_main_aisle": 0,
+        "is_inner_alley": 0,
+        "cognitive_cost": 2,
+        "note": "Visible market street connection from user placed nodes.",
+        "source": "user_nodes_manual_network_design_from_screenshot",
+        "confidence": "medium"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            127.43355810642244,
+            36.32692899486129
+          ],
+          [
+            127.43399798870088,
+            36.327088902892015
+          ]
+        ]
+      },
+      "properties": {
+        "edge_id": "E029",
+        "from_node": "N031",
+        "to_node": "N032",
+        "length_m": 43,
+        "width_level": 2,
+        "is_main_aisle": 0,
+        "is_inner_alley": 0,
+        "cognitive_cost": 2,
+        "note": "Visible market street connection from user placed nodes.",
+        "source": "user_nodes_manual_network_design_from_screenshot",
+        "confidence": "high"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            127.43399798870088,
+            36.327088902892015
+          ],
+          [
+            127.43473291397096,
+            36.32737846524764
+          ]
+        ]
+      },
+      "properties": {
+        "edge_id": "E030",
+        "from_node": "N032",
+        "to_node": "N033",
+        "length_m": 73,
+        "width_level": 2,
+        "is_main_aisle": 0,
+        "is_inner_alley": 0,
+        "cognitive_cost": 2,
+        "note": "Visible market street connection from user placed nodes.",
+        "source": "user_nodes_manual_network_design_from_screenshot",
+        "confidence": "high"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            127.43355810642244,
+            36.32692899486129
+          ],
+          [
+            127.43389070034029,
+            36.32632393447777
+          ]
+        ]
+      },
+      "properties": {
+        "edge_id": "E031",
+        "from_node": "N031",
+        "to_node": "G002",
+        "length_m": 74,
+        "width_level": 2,
+        "is_main_aisle": 1,
+        "is_inner_alley": 0,
+        "cognitive_cost": 2,
+        "note": "Entrance/access connection from user placed nodes.",
+        "source": "user_nodes_manual_network_design_from_screenshot",
+        "confidence": "high"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            127.43399798870088,
+            36.327088902892015
+          ],
+          [
+            127.43389070034029,
+            36.32632393447777
+          ]
+        ]
+      },
+      "properties": {
+        "edge_id": "E032",
+        "from_node": "N032",
+        "to_node": "G002",
+        "length_m": 86,
+        "width_level": 2,
+        "is_main_aisle": 1,
+        "is_inner_alley": 0,
+        "cognitive_cost": 2,
+        "note": "Entrance/access connection from user placed nodes.",
+        "source": "user_nodes_manual_network_design_from_screenshot",
+        "confidence": "medium"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            127.43002831935884,
+            36.32970789042289
+          ],
+          [
+            127.43037700653078,
+            36.32926275518746
+          ]
+        ]
+      },
+      "properties": {
+        "edge_id": "E033",
+        "from_node": "N013",
+        "to_node": "N014",
+        "length_m": 59,
+        "width_level": 2,
+        "is_main_aisle": 0,
+        "is_inner_alley": 0,
+        "cognitive_cost": 2,
+        "note": "Visible market street connection from user placed nodes.",
+        "source": "user_nodes_manual_network_design_from_screenshot",
+        "confidence": "high"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            127.43037700653078,
+            36.32926275518746
+          ],
+          [
+            127.43066668510438,
+            36.32889108692621
+          ]
+        ]
+      },
+      "properties": {
+        "edge_id": "E034",
+        "from_node": "N014",
+        "to_node": "N015",
+        "length_m": 49,
+        "width_level": 2,
+        "is_main_aisle": 0,
+        "is_inner_alley": 0,
+        "cognitive_cost": 2,
+        "note": "Visible market street connection from user placed nodes.",
+        "source": "user_nodes_manual_network_design_from_screenshot",
+        "confidence": "high"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            127.43066668510438,
+            36.32889108692621
+          ],
+          [
+            127.43098318576814,
+            36.328450268783165
+          ]
+        ]
+      },
+      "properties": {
+        "edge_id": "E035",
+        "from_node": "N015",
+        "to_node": "G001",
+        "length_m": 57,
+        "width_level": 2,
+        "is_main_aisle": 0,
+        "is_inner_alley": 0,
+        "cognitive_cost": 2,
+        "note": "Visible market street connection from user placed nodes.",
+        "source": "user_nodes_manual_network_design_from_screenshot",
+        "confidence": "high"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            127.43098318576814,
+            36.328450268783165
+          ],
+          [
+            127.43132114410402,
+            36.32798351744278
+          ]
+        ]
+      },
+      "properties": {
+        "edge_id": "E036",
+        "from_node": "G001",
+        "to_node": "N016",
+        "length_m": 60,
+        "width_level": 2,
+        "is_main_aisle": 0,
+        "is_inner_alley": 0,
+        "cognitive_cost": 2,
+        "note": "Visible market street connection from user placed nodes.",
+        "source": "user_nodes_manual_network_design_from_screenshot",
+        "confidence": "high"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            127.43103146553041,
+            36.33007523311936
+          ],
+          [
+            127.43127822875978,
+            36.329634421675756
+          ]
+        ]
+      },
+      "properties": {
+        "edge_id": "E037",
+        "from_node": "N012",
+        "to_node": "N001",
+        "length_m": 54,
+        "width_level": 2,
+        "is_main_aisle": 0,
+        "is_inner_alley": 1,
+        "cognitive_cost": 3,
+        "note": "Inner market alley connection from user placed nodes.",
+        "source": "user_nodes_manual_network_design_from_screenshot",
+        "confidence": "high"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            127.43127822875978,
+            36.329634421675756
+          ],
+          [
+            127.43151426315309,
+            36.32918928602059
+          ]
+        ]
+      },
+      "properties": {
+        "edge_id": "E038",
+        "from_node": "N001",
+        "to_node": "N004",
+        "length_m": 54,
+        "width_level": 2,
+        "is_main_aisle": 0,
+        "is_inner_alley": 1,
+        "cognitive_cost": 3,
+        "note": "Inner market alley connection from user placed nodes.",
+        "source": "user_nodes_manual_network_design_from_screenshot",
+        "confidence": "high"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            127.43151426315309,
+            36.32918928602059
+          ],
+          [
+            127.43174493312837,
+            36.32871821736343
+          ]
+        ]
+      },
+      "properties": {
+        "edge_id": "E039",
+        "from_node": "N004",
+        "to_node": "N005",
+        "length_m": 56,
+        "width_level": 2,
+        "is_main_aisle": 0,
+        "is_inner_alley": 1,
+        "cognitive_cost": 3,
+        "note": "Inner market alley connection from user placed nodes.",
+        "source": "user_nodes_manual_network_design_from_screenshot",
+        "confidence": "high"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            127.43174493312837,
+            36.32871821736343
+          ],
+          [
+            127.43202924728394,
+            36.32823850231781
+          ]
+        ]
+      },
+      "properties": {
+        "edge_id": "E040",
+        "from_node": "N005",
+        "to_node": "N017",
+        "length_m": 59,
+        "width_level": 2,
+        "is_main_aisle": 0,
+        "is_inner_alley": 1,
+        "cognitive_cost": 3,
+        "note": "Inner market alley connection from user placed nodes.",
+        "source": "user_nodes_manual_network_design_from_screenshot",
+        "confidence": "high"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            127.43202924728394,
+            36.32823850231781
+          ],
+          [
+            127.43180930614473,
+            36.327426005233036
+          ]
+        ]
+      },
+      "properties": {
+        "edge_id": "E041",
+        "from_node": "N017",
+        "to_node": "N029",
+        "length_m": 92,
+        "width_level": 2,
+        "is_main_aisle": 0,
+        "is_inner_alley": 1,
+        "cognitive_cost": 3,
+        "note": "Inner market alley connection from user placed nodes.",
+        "source": "user_nodes_manual_network_design_from_screenshot",
+        "confidence": "medium"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            127.43167519569397,
+            36.330325889494624
+          ],
+          [
+            127.4319112300873,
+            36.3298764361104
+          ]
+        ]
+      },
+      "properties": {
+        "edge_id": "E042",
+        "from_node": "N011",
+        "to_node": "N002",
+        "length_m": 54,
+        "width_level": 2,
+        "is_main_aisle": 0,
+        "is_inner_alley": 1,
+        "cognitive_cost": 3,
+        "note": "Inner market alley connection from user placed nodes.",
+        "source": "user_nodes_manual_network_design_from_screenshot",
+        "confidence": "high"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            127.4319112300873,
+            36.3298764361104
+          ],
+          [
+            127.43217408657075,
+            36.32941833672389
+          ]
+        ]
+      },
+      "properties": {
+        "edge_id": "E043",
+        "from_node": "N002",
+        "to_node": "N003",
+        "length_m": 56,
+        "width_level": 2,
+        "is_main_aisle": 0,
+        "is_inner_alley": 1,
+        "cognitive_cost": 3,
+        "note": "Inner market alley connection from user placed nodes.",
+        "source": "user_nodes_manual_network_design_from_screenshot",
+        "confidence": "high"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            127.43217408657075,
+            36.32941833672389
+          ],
+          [
+            127.43243694305421,
+            36.32896887810433
+          ]
+        ]
+      },
+      "properties": {
+        "edge_id": "E044",
+        "from_node": "N003",
+        "to_node": "N006",
+        "length_m": 55,
+        "width_level": 2,
+        "is_main_aisle": 0,
+        "is_inner_alley": 1,
+        "cognitive_cost": 3,
+        "note": "Inner market alley connection from user placed nodes.",
+        "source": "user_nodes_manual_network_design_from_screenshot",
+        "confidence": "high"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            127.43243694305421,
+            36.32896887810433
+          ],
+          [
+            127.4327051639557,
+            36.328480521088366
+          ]
+        ]
+      },
+      "properties": {
+        "edge_id": "E045",
+        "from_node": "N006",
+        "to_node": "N018",
+        "length_m": 59,
+        "width_level": 2,
+        "is_main_aisle": 0,
+        "is_inner_alley": 1,
+        "cognitive_cost": 3,
+        "note": "Inner market alley connection from user placed nodes.",
+        "source": "user_nodes_manual_network_design_from_screenshot",
+        "confidence": "high"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            127.4327051639557,
+            36.328480521088366
+          ],
+          [
+            127.43238866329195,
+            36.32765938292253
+          ]
+        ]
+      },
+      "properties": {
+        "edge_id": "E046",
+        "from_node": "N018",
+        "to_node": "N028",
+        "length_m": 96,
+        "width_level": 2,
+        "is_main_aisle": 0,
+        "is_inner_alley": 1,
+        "cognitive_cost": 3,
+        "note": "Inner market alley connection from user placed nodes.",
+        "source": "user_nodes_manual_network_design_from_screenshot",
+        "confidence": "medium"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            127.43238866329195,
+            36.32765938292253
+          ],
+          [
+            127.43252277374269,
+            36.32654002801121
+          ]
+        ]
+      },
+      "properties": {
+        "edge_id": "E047",
+        "from_node": "N028",
+        "to_node": "N030",
+        "length_m": 125,
+        "width_level": 2,
+        "is_main_aisle": 0,
+        "is_inner_alley": 1,
+        "cognitive_cost": 3,
+        "note": "Inner market alley connection from user placed nodes.",
+        "source": "user_nodes_manual_network_design_from_screenshot",
+        "confidence": "medium"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            127.43201851844789,
+            36.33044689573202
+          ],
+          [
+            127.43229746818544,
+            36.33003633809232
+          ]
+        ]
+      },
+      "properties": {
+        "edge_id": "E048",
+        "from_node": "N010",
+        "to_node": "N009",
+        "length_m": 52,
+        "width_level": 2,
+        "is_main_aisle": 0,
+        "is_inner_alley": 1,
+        "cognitive_cost": 3,
+        "note": "Inner market alley connection from user placed nodes.",
+        "source": "user_nodes_manual_network_design_from_screenshot",
+        "confidence": "high"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            127.43229746818544,
+            36.33003633809232
+          ],
+          [
+            127.43258714675905,
+            36.32957391794965
+          ]
+        ]
+      },
+      "properties": {
+        "edge_id": "E049",
+        "from_node": "N009",
+        "to_node": "N008",
+        "length_m": 58,
+        "width_level": 2,
+        "is_main_aisle": 0,
+        "is_inner_alley": 1,
+        "cognitive_cost": 3,
+        "note": "Inner market alley connection from user placed nodes.",
+        "source": "user_nodes_manual_network_design_from_screenshot",
+        "confidence": "high"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            127.43258714675905,
+            36.32957391794965
+          ],
+          [
+            127.43285536766054,
+            36.32913310366978
+          ]
+        ]
+      },
+      "properties": {
+        "edge_id": "E050",
+        "from_node": "N008",
+        "to_node": "N007",
+        "length_m": 55,
+        "width_level": 2,
+        "is_main_aisle": 0,
+        "is_inner_alley": 1,
+        "cognitive_cost": 3,
+        "note": "Inner market alley connection from user placed nodes.",
+        "source": "user_nodes_manual_network_design_from_screenshot",
+        "confidence": "high"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            127.43285536766054,
+            36.32913310366978
+          ],
+          [
+            127.43313431739809,
+            36.32861881719117
+          ]
+        ]
+      },
+      "properties": {
+        "edge_id": "E051",
+        "from_node": "N007",
+        "to_node": "N019",
+        "length_m": 62,
+        "width_level": 2,
+        "is_main_aisle": 0,
+        "is_inner_alley": 1,
+        "cognitive_cost": 3,
+        "note": "Inner market alley connection from user placed nodes.",
+        "source": "user_nodes_manual_network_design_from_screenshot",
+        "confidence": "high"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            127.43313431739809,
+            36.32861881719117
+          ],
+          [
+            127.43303775787355,
+            36.32789708170256
+          ]
+        ]
+      },
+      "properties": {
+        "edge_id": "E052",
+        "from_node": "N019",
+        "to_node": "N027",
+        "length_m": 81,
+        "width_level": 2,
+        "is_main_aisle": 0,
+        "is_inner_alley": 1,
+        "cognitive_cost": 3,
+        "note": "Inner market alley connection from user placed nodes.",
+        "source": "user_nodes_manual_network_design_from_screenshot",
+        "confidence": "high"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            127.43303775787355,
+            36.32789708170256
+          ],
+          [
+            127.43355810642244,
+            36.32692899486129
+          ]
+        ]
+      },
+      "properties": {
+        "edge_id": "E053",
+        "from_node": "N027",
+        "to_node": "N031",
+        "length_m": 117,
+        "width_level": 2,
+        "is_main_aisle": 0,
+        "is_inner_alley": 1,
+        "cognitive_cost": 3,
+        "note": "Inner market alley connection from user placed nodes.",
+        "source": "user_nodes_manual_network_design_from_screenshot",
+        "confidence": "medium"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            127.43328988552095,
+            36.32979864583839
+          ],
+          [
+            127.43355274200441,
+            36.32937079795403
+          ]
+        ]
+      },
+      "properties": {
+        "edge_id": "E054",
+        "from_node": "N022",
+        "to_node": "N021",
+        "length_m": 53,
+        "width_level": 2,
+        "is_main_aisle": 1,
+        "is_inner_alley": 0,
+        "cognitive_cost": 2,
+        "note": "Entrance/access connection from user placed nodes.",
+        "source": "user_nodes_manual_network_design_from_screenshot",
+        "confidence": "high"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            127.43355274200441,
+            36.32937079795403
+          ],
+          [
+            127.43384242057802,
+            36.32885651304434
+          ]
+        ]
+      },
+      "properties": {
+        "edge_id": "E055",
+        "from_node": "N021",
+        "to_node": "N020",
+        "length_m": 63,
+        "width_level": 2,
+        "is_main_aisle": 1,
+        "is_inner_alley": 0,
+        "cognitive_cost": 2,
+        "note": "Entrance/access connection from user placed nodes.",
+        "source": "user_nodes_manual_network_design_from_screenshot",
+        "confidence": "high"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            127.43384242057802,
+            36.32885651304434
+          ],
+          [
+            127.43415355682374,
+            36.32833358121019
+          ]
+        ]
+      },
+      "properties": {
+        "edge_id": "E056",
+        "from_node": "N020",
+        "to_node": "N026",
+        "length_m": 64,
+        "width_level": 2,
+        "is_main_aisle": 1,
+        "is_inner_alley": 0,
+        "cognitive_cost": 2,
+        "note": "Entrance/access connection from user placed nodes.",
+        "source": "user_nodes_manual_network_design_from_screenshot",
+        "confidence": "high"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            127.43415355682374,
+            36.32833358121019
+          ],
+          [
+            127.43345081806184,
+            36.32806995308713
+          ]
+        ]
+      },
+      "properties": {
+        "edge_id": "E057",
+        "from_node": "N026",
+        "to_node": "N025",
+        "length_m": 69,
+        "width_level": 2,
+        "is_main_aisle": 1,
+        "is_inner_alley": 0,
+        "cognitive_cost": 2,
+        "note": "Entrance/access connection from user placed nodes.",
+        "source": "user_nodes_manual_network_design_from_screenshot",
+        "confidence": "high"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            127.43174493312837,
+            36.32871821736343
+          ],
+          [
+            127.4327051639557,
+            36.328480521088366
+          ]
+        ]
+      },
+      "properties": {
+        "edge_id": "E058",
+        "from_node": "N005",
+        "to_node": "N018",
+        "length_m": 90,
+        "width_level": 2,
+        "is_main_aisle": 0,
+        "is_inner_alley": 0,
+        "cognitive_cost": 2,
+        "note": "Visible market street connection from user placed nodes.",
+        "source": "user_nodes_manual_network_design_from_screenshot",
+        "confidence": "medium"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            127.43202924728394,
+            36.32823850231781
+          ],
+          [
+            127.43238866329195,
+            36.32765938292253
+          ]
+        ]
+      },
+      "properties": {
+        "edge_id": "E059",
+        "from_node": "N017",
+        "to_node": "N028",
+        "length_m": 72,
+        "width_level": 2,
+        "is_main_aisle": 0,
+        "is_inner_alley": 0,
+        "cognitive_cost": 2,
+        "note": "Visible market street connection from user placed nodes.",
+        "source": "user_nodes_manual_network_design_from_screenshot",
+        "confidence": "high"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            127.4327051639557,
+            36.328480521088366
+          ],
+          [
+            127.43303775787355,
+            36.32789708170256
+          ]
+        ]
+      },
+      "properties": {
+        "edge_id": "E060",
+        "from_node": "N018",
+        "to_node": "N027",
+        "length_m": 71,
+        "width_level": 2,
+        "is_main_aisle": 0,
+        "is_inner_alley": 0,
+        "cognitive_cost": 2,
+        "note": "Visible market street connection from user placed nodes.",
+        "source": "user_nodes_manual_network_design_from_screenshot",
+        "confidence": "high"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            127.43345081806184,
+            36.32806995308713
+          ],
+          [
+            127.43399798870088,
+            36.327088902892015
+          ]
+        ]
+      },
+      "properties": {
+        "edge_id": "E061",
+        "from_node": "N025",
+        "to_node": "N032",
+        "length_m": 120,
+        "width_level": 2,
+        "is_main_aisle": 0,
+        "is_inner_alley": 0,
+        "cognitive_cost": 2,
+        "note": "Visible market street connection from user placed nodes.",
+        "source": "user_nodes_manual_network_design_from_screenshot",
+        "confidence": "medium"
+      }
+    }
+  ]
+}

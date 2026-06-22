@@ -1,0 +1,647 @@
+{
+  "type": "FeatureCollection",
+  "name": "network_nodes_diagonal_road_snapped_estimate",
+  "description": "Diagonal road-snapped estimated pedestrian network nodes for Daejeon Jungang Market based on visible Leaflet road centerlines. Not official data.",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          127.43175692476689,
+          36.32864619269639
+        ]
+      },
+      "properties": {
+        "node_id": "G001",
+        "node_type": "entrance",
+        "name": "West entrance on Daejeon-ro 785beon-gil",
+        "is_entrance": 1,
+        "is_major": 1,
+        "note": "Diagonal road-snapped pedestrian network draft node based on visible Leaflet road centerlines. Not official walkway data; field/user verification required.",
+        "source": "leaflet_visible_diagonal_road_snapped_estimate",
+        "confidence": "medium"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          127.43235,
+          36.32997000000001
+        ]
+      },
+      "properties": {
+        "node_id": "G002",
+        "node_type": "entrance",
+        "name": "North entrance on Jungang-ro 200beon-gil",
+        "is_entrance": 1,
+        "is_major": 1,
+        "note": "Diagonal road-snapped pedestrian network draft node based on visible Leaflet road centerlines. Not official walkway data; field/user verification required.",
+        "source": "leaflet_visible_diagonal_road_snapped_estimate",
+        "confidence": "medium"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          127.43356871698481,
+          36.329616504906525
+        ]
+      },
+      "properties": {
+        "node_id": "G003",
+        "node_type": "entrance",
+        "name": "East entrance on Daejeon-ro 791beon-gil",
+        "is_entrance": 1,
+        "is_major": 1,
+        "note": "Diagonal road-snapped pedestrian network draft node based on visible Leaflet road centerlines. Not official walkway data; field/user verification required.",
+        "source": "leaflet_visible_diagonal_road_snapped_estimate",
+        "confidence": "medium"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          127.43314482570912,
+          36.32781665991311
+        ]
+      },
+      "properties": {
+        "node_id": "G004",
+        "node_type": "entrance",
+        "name": "South entrance on Junggyo-ro",
+        "is_entrance": 1,
+        "is_major": 1,
+        "note": "Diagonal road-snapped pedestrian network draft node based on visible Leaflet road centerlines. Not official walkway data; field/user verification required.",
+        "source": "leaflet_visible_diagonal_road_snapped_estimate",
+        "confidence": "medium"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          127.43194765073477,
+          36.327566659668996
+        ]
+      },
+      "properties": {
+        "node_id": "G005",
+        "node_type": "entrance",
+        "name": "Southwest entrance on Junggyo-ro",
+        "is_entrance": 1,
+        "is_major": 1,
+        "note": "Diagonal road-snapped pedestrian network draft node based on visible Leaflet road centerlines. Not official walkway data; field/user verification required.",
+        "source": "leaflet_visible_diagonal_road_snapped_estimate",
+        "confidence": "medium"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          127.43175414831812,
+          36.32974525411318
+        ]
+      },
+      "properties": {
+        "node_id": "N001",
+        "node_type": "junction",
+        "name": "Daejeon-ro 797beon-gil x Jungang-ro 194beon-gil",
+        "is_entrance": 0,
+        "is_major": 1,
+        "note": "Diagonal road-snapped pedestrian network draft node based on visible Leaflet road centerlines. Not official walkway data; field/user verification required.",
+        "source": "leaflet_visible_diagonal_road_snapped_estimate",
+        "confidence": "high"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          127.43234,
+          36.32988000000001
+        ]
+      },
+      "properties": {
+        "node_id": "N002",
+        "node_type": "junction",
+        "name": "Daejeon-ro 797beon-gil x Jungang-ro 200beon-gil",
+        "is_entrance": 0,
+        "is_major": 1,
+        "note": "Diagonal road-snapped pedestrian network draft node based on visible Leaflet road centerlines. Not official walkway data; field/user verification required.",
+        "source": "leaflet_visible_diagonal_road_snapped_estimate",
+        "confidence": "high"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          127.43290632329249,
+          36.33001025435728
+        ]
+      },
+      "properties": {
+        "node_id": "N003",
+        "node_type": "junction",
+        "name": "Daejeon-ro 797beon-gil x Jungang-ro 204beon-gil",
+        "is_entrance": 0,
+        "is_major": 1,
+        "note": "Diagonal road-snapped pedestrian network draft node based on visible Leaflet road centerlines. Not official walkway data; field/user verification required.",
+        "source": "leaflet_visible_diagonal_road_snapped_estimate",
+        "confidence": "high"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          127.43180951130206,
+          36.32921798759948
+        ]
+      },
+      "properties": {
+        "node_id": "N004",
+        "node_type": "junction",
+        "name": "Daejeon-ro 791beon-gil x Jungang-ro 194beon-gil",
+        "is_entrance": 0,
+        "is_major": 1,
+        "note": "Diagonal road-snapped pedestrian network draft node based on visible Leaflet road centerlines. Not official walkway data; field/user verification required.",
+        "source": "leaflet_visible_diagonal_road_snapped_estimate",
+        "confidence": "medium"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          127.43239536298394,
+          36.32935273348631
+        ]
+      },
+      "properties": {
+        "node_id": "N005",
+        "node_type": "junction",
+        "name": "Daejeon-ro 791beon-gil x Jungang-ro 200beon-gil",
+        "is_entrance": 0,
+        "is_major": 1,
+        "note": "Diagonal road-snapped pedestrian network draft node based on visible Leaflet road centerlines. Not official walkway data; field/user verification required.",
+        "source": "leaflet_visible_diagonal_road_snapped_estimate",
+        "confidence": "high"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          127.43296168627641,
+          36.32948298784359
+        ]
+      },
+      "properties": {
+        "node_id": "N006",
+        "node_type": "junction",
+        "name": "Daejeon-ro 791beon-gil x Jungang-ro 204beon-gil",
+        "is_entrance": 0,
+        "is_major": 1,
+        "note": "Diagonal road-snapped pedestrian network draft node based on visible Leaflet road centerlines. Not official walkway data; field/user verification required.",
+        "source": "leaflet_visible_diagonal_road_snapped_estimate",
+        "confidence": "high"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          127.43349871698481,
+          36.32960650490652
+        ]
+      },
+      "properties": {
+        "node_id": "N007",
+        "node_type": "junction",
+        "name": "Daejeon-ro 791beon-gil x Daejeon-ro edge",
+        "is_entrance": 0,
+        "is_major": 1,
+        "note": "Diagonal road-snapped pedestrian network draft node based on visible Leaflet road centerlines. Not official walkway data; field/user verification required.",
+        "source": "leaflet_visible_diagonal_road_snapped_estimate",
+        "confidence": "medium"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          127.43186692476688,
+          36.32867119269639
+        ]
+      },
+      "properties": {
+        "node_id": "N008",
+        "node_type": "junction",
+        "name": "Daejeon-ro 785beon-gil x Jungang-ro 194beon-gil",
+        "is_entrance": 0,
+        "is_major": 1,
+        "note": "Diagonal road-snapped pedestrian network draft node based on visible Leaflet road centerlines. Not official walkway data; field/user verification required.",
+        "source": "leaflet_visible_diagonal_road_snapped_estimate",
+        "confidence": "high"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          127.43245277644876,
+          36.32880593858322
+        ]
+      },
+      "properties": {
+        "node_id": "N009",
+        "node_type": "junction",
+        "name": "Daejeon-ro 785beon-gil x Jungang-ro 200beon-gil",
+        "is_entrance": 0,
+        "is_major": 1,
+        "note": "Diagonal road-snapped pedestrian network draft node based on visible Leaflet road centerlines. Not official walkway data; field/user verification required.",
+        "source": "leaflet_visible_diagonal_road_snapped_estimate",
+        "confidence": "high"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          127.43301909974124,
+          36.328936192940496
+        ]
+      },
+      "properties": {
+        "node_id": "N010",
+        "node_type": "junction",
+        "name": "Daejeon-ro 785beon-gil x Jungang-ro 204beon-gil",
+        "is_entrance": 0,
+        "is_major": 1,
+        "note": "Diagonal road-snapped pedestrian network draft node based on visible Leaflet road centerlines. Not official walkway data; field/user verification required.",
+        "source": "leaflet_visible_diagonal_road_snapped_estimate",
+        "confidence": "high"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          127.43355613044965,
+          36.32905971000343
+        ]
+      },
+      "properties": {
+        "node_id": "N011",
+        "node_type": "junction",
+        "name": "Daejeon-ro 785beon-gil x Daejeon-ro edge",
+        "is_entrance": 0,
+        "is_major": 1,
+        "note": "Diagonal road-snapped pedestrian network draft node based on visible Leaflet road centerlines. Not official walkway data; field/user verification required.",
+        "source": "leaflet_visible_diagonal_road_snapped_estimate",
+        "confidence": "high"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          127.43192433823171,
+          36.3281243977933
+        ]
+      },
+      "properties": {
+        "node_id": "N012",
+        "node_type": "junction",
+        "name": "Daejeon-ro 779beon-gil x Jungang-ro 194beon-gil",
+        "is_entrance": 0,
+        "is_major": 1,
+        "note": "Diagonal road-snapped pedestrian network draft node based on visible Leaflet road centerlines. Not official walkway data; field/user verification required.",
+        "source": "leaflet_visible_diagonal_road_snapped_estimate",
+        "confidence": "high"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          127.43251018991359,
+          36.328259143680135
+        ]
+      },
+      "properties": {
+        "node_id": "N013",
+        "node_type": "junction",
+        "name": "Daejeon-ro 779beon-gil x Jungang-ro 200beon-gil",
+        "is_entrance": 0,
+        "is_major": 1,
+        "note": "Diagonal road-snapped pedestrian network draft node based on visible Leaflet road centerlines. Not official walkway data; field/user verification required.",
+        "source": "leaflet_visible_diagonal_road_snapped_estimate",
+        "confidence": "high"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          127.43307651320607,
+          36.32838939803741
+        ]
+      },
+      "properties": {
+        "node_id": "N014",
+        "node_type": "junction",
+        "name": "Daejeon-ro 779beon-gil x Jungang-ro 204beon-gil",
+        "is_entrance": 0,
+        "is_major": 1,
+        "note": "Diagonal road-snapped pedestrian network draft node based on visible Leaflet road centerlines. Not official walkway data; field/user verification required.",
+        "source": "leaflet_visible_diagonal_road_snapped_estimate",
+        "confidence": "medium"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          127.43197765073477,
+          36.327616659669
+        ]
+      },
+      "properties": {
+        "node_id": "N015",
+        "node_type": "junction",
+        "name": "Junggyo-ro x Jungang-ro 194beon-gil",
+        "is_entrance": 0,
+        "is_major": 1,
+        "note": "Diagonal road-snapped pedestrian network draft node based on visible Leaflet road centerlines. Not official walkway data; field/user verification required.",
+        "source": "leaflet_visible_diagonal_road_snapped_estimate",
+        "confidence": "high"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          127.43256350241663,
+          36.32775140555583
+        ]
+      },
+      "properties": {
+        "node_id": "N016",
+        "node_type": "junction",
+        "name": "Junggyo-ro x Jungang-ro 200beon-gil",
+        "is_entrance": 0,
+        "is_major": 1,
+        "note": "Diagonal road-snapped pedestrian network draft node based on visible Leaflet road centerlines. Not official walkway data; field/user verification required.",
+        "source": "leaflet_visible_diagonal_road_snapped_estimate",
+        "confidence": "high"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          127.43312982570912,
+          36.32788165991311
+        ]
+      },
+      "properties": {
+        "node_id": "N017",
+        "node_type": "junction",
+        "name": "Junggyo-ro x Jungang-ro 204beon-gil",
+        "is_entrance": 0,
+        "is_major": 1,
+        "note": "Diagonal road-snapped pedestrian network draft node based on visible Leaflet road centerlines. Not official walkway data; field/user verification required.",
+        "source": "leaflet_visible_diagonal_road_snapped_estimate",
+        "confidence": "medium"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          127.43236768149197,
+          36.32961636674316
+        ]
+      },
+      "properties": {
+        "node_id": "F001",
+        "node_type": "facility",
+        "name": "Jungang Market reference point on Jungang-ro 200beon-gil",
+        "is_entrance": 0,
+        "is_major": 1,
+        "note": "Diagonal road-snapped pedestrian network draft node based on visible Leaflet road centerlines. Not official walkway data; field/user verification required.",
+        "source": "leaflet_visible_diagonal_road_snapped_estimate",
+        "confidence": "high"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          127.43221726407265,
+          36.32819177073672
+        ]
+      },
+      "properties": {
+        "node_id": "F002",
+        "node_type": "facility",
+        "name": "Jungang Complex Market reference point on Daejeon-ro 779beon-gil",
+        "is_entrance": 0,
+        "is_major": 1,
+        "note": "Diagonal road-snapped pedestrian network draft node based on visible Leaflet road centerlines. Not official walkway data; field/user verification required.",
+        "source": "leaflet_visible_diagonal_road_snapped_estimate",
+        "confidence": "high"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          127.43352742371724,
+          36.32933310745497
+        ]
+      },
+      "properties": {
+        "node_id": "F003",
+        "node_type": "facility",
+        "name": "Daejeon-ro landmark connector on east road edge",
+        "is_entrance": 0,
+        "is_major": 0,
+        "note": "Diagonal road-snapped pedestrian network draft node based on visible Leaflet road centerlines. Not official walkway data; field/user verification required.",
+        "source": "leaflet_visible_diagonal_road_snapped_estimate",
+        "confidence": "medium"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          127.43294860225552,
+          36.32783997851878
+        ]
+      },
+      "properties": {
+        "node_id": "F004",
+        "node_type": "facility",
+        "name": "Hanbok Street reference point on Junggyo-ro",
+        "is_entrance": 0,
+        "is_major": 0,
+        "note": "Diagonal road-snapped pedestrian network draft node based on visible Leaflet road centerlines. Not official walkway data; field/user verification required.",
+        "source": "leaflet_visible_diagonal_road_snapped_estimate",
+        "confidence": "medium"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          127.432102437143,
+          36.3292853605429
+        ]
+      },
+      "properties": {
+        "node_id": "A001",
+        "node_type": "store_anchor",
+        "name": "Fish alley anchor on Daejeon-ro 791beon-gil",
+        "is_entrance": 0,
+        "is_major": 0,
+        "note": "Diagonal road-snapped pedestrian network draft node based on visible Leaflet road centerlines. Not official walkway data; field/user verification required.",
+        "source": "leaflet_visible_diagonal_road_snapped_estimate",
+        "confidence": "high"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          127.43273593809499,
+          36.32887106576186
+        ]
+      },
+      "properties": {
+        "node_id": "A002",
+        "node_type": "store_anchor",
+        "name": "Side dish and snack anchor on Daejeon-ro 785beon-gil",
+        "is_entrance": 0,
+        "is_major": 0,
+        "note": "Diagonal road-snapped pedestrian network draft node based on visible Leaflet road centerlines. Not official walkway data; field/user verification required.",
+        "source": "leaflet_visible_diagonal_road_snapped_estimate",
+        "confidence": "high"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          127.43282166772445,
+          36.32833078357663
+        ]
+      },
+      "properties": {
+        "node_id": "A003",
+        "node_type": "store_anchor",
+        "name": "Complex market anchor on Daejeon-ro 779beon-gil",
+        "is_entrance": 0,
+        "is_major": 0,
+        "note": "Diagonal road-snapped pedestrian network draft node based on visible Leaflet road centerlines. Not official walkway data; field/user verification required.",
+        "source": "leaflet_visible_diagonal_road_snapped_estimate",
+        "confidence": "high"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          127.432761715569,
+          36.32779699458088
+        ]
+      },
+      "properties": {
+        "node_id": "A004",
+        "node_type": "store_anchor",
+        "name": "Hanbok and apparel anchor on Junggyo-ro",
+        "is_entrance": 0,
+        "is_major": 0,
+        "note": "Diagonal road-snapped pedestrian network draft node based on visible Leaflet road centerlines. Not official walkway data; field/user verification required.",
+        "source": "leaflet_visible_diagonal_road_snapped_estimate",
+        "confidence": "medium"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          127.43262316164623,
+          36.32994512717865
+        ]
+      },
+      "properties": {
+        "node_id": "A005",
+        "node_type": "store_anchor",
+        "name": "North goods anchor on Daejeon-ro 797beon-gil",
+        "is_entrance": 0,
+        "is_major": 0,
+        "note": "Diagonal road-snapped pedestrian network draft node based on visible Leaflet road centerlines. Not official walkway data; field/user verification required.",
+        "source": "leaflet_visible_diagonal_road_snapped_estimate",
+        "confidence": "medium"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          127.43328761509545,
+          36.32899795147196
+        ]
+      },
+      "properties": {
+        "node_id": "A006",
+        "node_type": "store_anchor",
+        "name": "East wholesale anchor on Daejeon-ro 785beon-gil",
+        "is_entrance": 0,
+        "is_major": 0,
+        "note": "Diagonal road-snapped pedestrian network draft node based on visible Leaflet road centerlines. Not official walkway data; field/user verification required.",
+        "source": "leaflet_visible_diagonal_road_snapped_estimate",
+        "confidence": "medium"
+      }
+    }
+  ]
+}

@@ -1,0 +1,1038 @@
+[
+  {
+    "scenario": "S1",
+    "categories": [
+      "과일·채소",
+      "반찬·식료품",
+      "떡·한과"
+    ],
+    "routes": {
+      "빠른 장보기": {
+        "metrics": {
+          "방문점포수": 3,
+          "총거리_m": 133,
+          "예상이동시간_분": 2.0,
+          "중심부점포수": 2,
+          "외곽부점포수": 0,
+          "직접매칭점포수": 1,
+          "빠른장보기대비거리증가율": 0.0
+        },
+        "stores": [
+          {
+            "id": "MA010120220805791526",
+            "name": "헬로모모",
+            "shopping_category": "반찬·식료품",
+            "smallCategory": "기념품점",
+            "distanceM": 33,
+            "distance_zone": "중심부",
+            "directMarketMatch": true,
+            "coordinates": [
+              127.432217944898,
+              36.3289289475588
+            ]
+          },
+          {
+            "id": "MA010120220805829749",
+            "name": "대우땅콩",
+            "shopping_category": "과일·채소",
+            "smallCategory": "채소/과일 소매업",
+            "distanceM": 82,
+            "distance_zone": "중심부",
+            "directMarketMatch": false,
+            "coordinates": [
+              127.431695298667,
+              36.3290750246278
+            ]
+          },
+          {
+            "id": "MA010120220805829097",
+            "name": "낙원떡집",
+            "shopping_category": "떡·한과",
+            "smallCategory": "떡/한과",
+            "distanceM": 132,
+            "distance_zone": "중간부",
+            "directMarketMatch": false,
+            "coordinates": [
+              127.431138941277,
+              36.3291671504328
+            ]
+          }
+        ]
+      },
+      "초행자 친화형": {
+        "metrics": {
+          "방문점포수": 3,
+          "총거리_m": 133,
+          "예상이동시간_분": 2.0,
+          "중심부점포수": 2,
+          "외곽부점포수": 0,
+          "직접매칭점포수": 1,
+          "빠른장보기대비거리증가율": 0.0
+        },
+        "stores": [
+          {
+            "id": "MA010120220805791526",
+            "name": "헬로모모",
+            "shopping_category": "반찬·식료품",
+            "smallCategory": "기념품점",
+            "distanceM": 33,
+            "distance_zone": "중심부",
+            "directMarketMatch": true,
+            "coordinates": [
+              127.432217944898,
+              36.3289289475588
+            ]
+          },
+          {
+            "id": "MA010120220805829749",
+            "name": "대우땅콩",
+            "shopping_category": "과일·채소",
+            "smallCategory": "채소/과일 소매업",
+            "distanceM": 82,
+            "distance_zone": "중심부",
+            "directMarketMatch": false,
+            "coordinates": [
+              127.431695298667,
+              36.3290750246278
+            ]
+          },
+          {
+            "id": "MA010120220805829097",
+            "name": "낙원떡집",
+            "shopping_category": "떡·한과",
+            "smallCategory": "떡/한과",
+            "distanceM": 132,
+            "distance_zone": "중간부",
+            "directMarketMatch": false,
+            "coordinates": [
+              127.431138941277,
+              36.3291671504328
+            ]
+          }
+        ]
+      },
+      "상생형": {
+        "metrics": {
+          "방문점포수": 3,
+          "총거리_m": 133,
+          "예상이동시간_분": 2.0,
+          "중심부점포수": 2,
+          "외곽부점포수": 0,
+          "직접매칭점포수": 1,
+          "빠른장보기대비거리증가율": 0.0
+        },
+        "stores": [
+          {
+            "id": "MA010120220805791526",
+            "name": "헬로모모",
+            "shopping_category": "반찬·식료품",
+            "smallCategory": "기념품점",
+            "distanceM": 33,
+            "distance_zone": "중심부",
+            "directMarketMatch": true,
+            "coordinates": [
+              127.432217944898,
+              36.3289289475588
+            ]
+          },
+          {
+            "id": "MA010120220805829749",
+            "name": "대우땅콩",
+            "shopping_category": "과일·채소",
+            "smallCategory": "채소/과일 소매업",
+            "distanceM": 82,
+            "distance_zone": "중심부",
+            "directMarketMatch": false,
+            "coordinates": [
+              127.431695298667,
+              36.3290750246278
+            ]
+          },
+          {
+            "id": "MA010120220805829097",
+            "name": "낙원떡집",
+            "shopping_category": "떡·한과",
+            "smallCategory": "떡/한과",
+            "distanceM": 132,
+            "distance_zone": "중간부",
+            "directMarketMatch": false,
+            "coordinates": [
+              127.431138941277,
+              36.3291671504328
+            ]
+          }
+        ]
+      }
+    }
+  },
+  {
+    "scenario": "S2",
+    "categories": [
+      "정육",
+      "과일·채소",
+      "반찬·식료품"
+    ],
+    "routes": {
+      "빠른 장보기": {
+        "metrics": {
+          "방문점포수": 3,
+          "총거리_m": 90,
+          "예상이동시간_분": 1.3,
+          "중심부점포수": 3,
+          "외곽부점포수": 0,
+          "직접매칭점포수": 1,
+          "빠른장보기대비거리증가율": 0.0
+        },
+        "stores": [
+          {
+            "id": "MA010120220805791526",
+            "name": "헬로모모",
+            "shopping_category": "반찬·식료품",
+            "smallCategory": "기념품점",
+            "distanceM": 33,
+            "distance_zone": "중심부",
+            "directMarketMatch": true,
+            "coordinates": [
+              127.432217944898,
+              36.3289289475588
+            ]
+          },
+          {
+            "id": "MA0101202410A0317238",
+            "name": "개똥이네닭집",
+            "shopping_category": "정육",
+            "smallCategory": "정육점",
+            "distanceM": 60,
+            "distance_zone": "중심부",
+            "directMarketMatch": false,
+            "coordinates": [
+              127.432086191014,
+              36.3292718709743
+            ]
+          },
+          {
+            "id": "MA0101202310A0086802",
+            "name": "솔이네야채",
+            "shopping_category": "과일·채소",
+            "smallCategory": "채소/과일 소매업",
+            "distanceM": 77,
+            "distance_zone": "중심부",
+            "directMarketMatch": false,
+            "coordinates": [
+              127.431975516402,
+              36.3293984357168
+            ]
+          }
+        ]
+      },
+      "초행자 친화형": {
+        "metrics": {
+          "방문점포수": 3,
+          "총거리_m": 90,
+          "예상이동시간_분": 1.3,
+          "중심부점포수": 3,
+          "외곽부점포수": 0,
+          "직접매칭점포수": 1,
+          "빠른장보기대비거리증가율": 0.0
+        },
+        "stores": [
+          {
+            "id": "MA010120220805791526",
+            "name": "헬로모모",
+            "shopping_category": "반찬·식료품",
+            "smallCategory": "기념품점",
+            "distanceM": 33,
+            "distance_zone": "중심부",
+            "directMarketMatch": true,
+            "coordinates": [
+              127.432217944898,
+              36.3289289475588
+            ]
+          },
+          {
+            "id": "MA0101202410A0317238",
+            "name": "개똥이네닭집",
+            "shopping_category": "정육",
+            "smallCategory": "정육점",
+            "distanceM": 60,
+            "distance_zone": "중심부",
+            "directMarketMatch": false,
+            "coordinates": [
+              127.432086191014,
+              36.3292718709743
+            ]
+          },
+          {
+            "id": "MA0101202310A0086802",
+            "name": "솔이네야채",
+            "shopping_category": "과일·채소",
+            "smallCategory": "채소/과일 소매업",
+            "distanceM": 77,
+            "distance_zone": "중심부",
+            "directMarketMatch": false,
+            "coordinates": [
+              127.431975516402,
+              36.3293984357168
+            ]
+          }
+        ]
+      },
+      "상생형": {
+        "metrics": {
+          "방문점포수": 3,
+          "총거리_m": 90,
+          "예상이동시간_분": 1.3,
+          "중심부점포수": 3,
+          "외곽부점포수": 0,
+          "직접매칭점포수": 1,
+          "빠른장보기대비거리증가율": 0.0
+        },
+        "stores": [
+          {
+            "id": "MA010120220805791526",
+            "name": "헬로모모",
+            "shopping_category": "반찬·식료품",
+            "smallCategory": "기념품점",
+            "distanceM": 33,
+            "distance_zone": "중심부",
+            "directMarketMatch": true,
+            "coordinates": [
+              127.432217944898,
+              36.3289289475588
+            ]
+          },
+          {
+            "id": "MA0101202410A0317238",
+            "name": "개똥이네닭집",
+            "shopping_category": "정육",
+            "smallCategory": "정육점",
+            "distanceM": 60,
+            "distance_zone": "중심부",
+            "directMarketMatch": false,
+            "coordinates": [
+              127.432086191014,
+              36.3292718709743
+            ]
+          },
+          {
+            "id": "MA0101202310A0086802",
+            "name": "솔이네야채",
+            "shopping_category": "과일·채소",
+            "smallCategory": "채소/과일 소매업",
+            "distanceM": 77,
+            "distance_zone": "중심부",
+            "directMarketMatch": false,
+            "coordinates": [
+              127.431975516402,
+              36.3293984357168
+            ]
+          }
+        ]
+      }
+    }
+  },
+  {
+    "scenario": "S3",
+    "categories": [
+      "수산·건어물",
+      "반찬·식료품",
+      "분식·먹거리"
+    ],
+    "routes": {
+      "빠른 장보기": {
+        "metrics": {
+          "방문점포수": 3,
+          "총거리_m": 73,
+          "예상이동시간_분": 1.1,
+          "중심부점포수": 3,
+          "외곽부점포수": 0,
+          "직접매칭점포수": 0,
+          "빠른장보기대비거리증가율": 0.0
+        },
+        "stores": [
+          {
+            "id": "MA0101202409A0165193",
+            "name": "옛날분식",
+            "shopping_category": "분식·먹거리",
+            "smallCategory": "김밥/만두/분식",
+            "distanceM": 8,
+            "distance_zone": "중심부",
+            "directMarketMatch": false,
+            "coordinates": [
+              127.432663526744,
+              36.3289453589567
+            ]
+          },
+          {
+            "id": "MA010120220813451594",
+            "name": "종상회",
+            "shopping_category": "수산·건어물",
+            "smallCategory": "가방 소매업",
+            "distanceM": 31,
+            "distance_zone": "중심부",
+            "directMarketMatch": false,
+            "coordinates": [
+              127.4327093207,
+              36.329170487282
+            ]
+          },
+          {
+            "id": "MA010120220805554465",
+            "name": "계영제과",
+            "shopping_category": "반찬·식료품",
+            "smallCategory": "슈퍼마켓",
+            "distanceM": 54,
+            "distance_zone": "중심부",
+            "directMarketMatch": false,
+            "coordinates": [
+              127.432331655381,
+              36.3293520892235
+            ]
+          }
+        ]
+      },
+      "초행자 친화형": {
+        "metrics": {
+          "방문점포수": 3,
+          "총거리_m": 48,
+          "예상이동시간_분": 0.7,
+          "중심부점포수": 3,
+          "외곽부점포수": 0,
+          "직접매칭점포수": 2,
+          "빠른장보기대비거리증가율": -34.25
+        },
+        "stores": [
+          {
+            "id": "MA0101202409A0165193",
+            "name": "옛날분식",
+            "shopping_category": "분식·먹거리",
+            "smallCategory": "김밥/만두/분식",
+            "distanceM": 8,
+            "distance_zone": "중심부",
+            "directMarketMatch": false,
+            "coordinates": [
+              127.432663526744,
+              36.3289453589567
+            ]
+          },
+          {
+            "id": "MA010120220805824183",
+            "name": "경성상회",
+            "shopping_category": "수산·건어물",
+            "smallCategory": "기타 의류 소매업",
+            "distanceM": 33,
+            "distance_zone": "중심부",
+            "directMarketMatch": true,
+            "coordinates": [
+              127.432217944898,
+              36.3289289475588
+            ]
+          },
+          {
+            "id": "MA010120220805791526",
+            "name": "헬로모모",
+            "shopping_category": "반찬·식료품",
+            "smallCategory": "기념품점",
+            "distanceM": 33,
+            "distance_zone": "중심부",
+            "directMarketMatch": true,
+            "coordinates": [
+              127.432217944898,
+              36.3289289475588
+            ]
+          }
+        ]
+      },
+      "상생형": {
+        "metrics": {
+          "방문점포수": 3,
+          "총거리_m": 73,
+          "예상이동시간_분": 1.1,
+          "중심부점포수": 3,
+          "외곽부점포수": 0,
+          "직접매칭점포수": 0,
+          "빠른장보기대비거리증가율": 0.0
+        },
+        "stores": [
+          {
+            "id": "MA0101202409A0165193",
+            "name": "옛날분식",
+            "shopping_category": "분식·먹거리",
+            "smallCategory": "김밥/만두/분식",
+            "distanceM": 8,
+            "distance_zone": "중심부",
+            "directMarketMatch": false,
+            "coordinates": [
+              127.432663526744,
+              36.3289453589567
+            ]
+          },
+          {
+            "id": "MA010120220813451594",
+            "name": "종상회",
+            "shopping_category": "수산·건어물",
+            "smallCategory": "가방 소매업",
+            "distanceM": 31,
+            "distance_zone": "중심부",
+            "directMarketMatch": false,
+            "coordinates": [
+              127.4327093207,
+              36.329170487282
+            ]
+          },
+          {
+            "id": "MA010120220805554465",
+            "name": "계영제과",
+            "shopping_category": "반찬·식료품",
+            "smallCategory": "슈퍼마켓",
+            "distanceM": 54,
+            "distance_zone": "중심부",
+            "directMarketMatch": false,
+            "coordinates": [
+              127.432331655381,
+              36.3293520892235
+            ]
+          }
+        ]
+      }
+    }
+  },
+  {
+    "scenario": "S4",
+    "categories": [
+      "떡·한과",
+      "분식·먹거리",
+      "카페·음료"
+    ],
+    "routes": {
+      "빠른 장보기": {
+        "metrics": {
+          "방문점포수": 3,
+          "총거리_m": 150,
+          "예상이동시간_분": 2.2,
+          "중심부점포수": 2,
+          "외곽부점포수": 0,
+          "직접매칭점포수": 0,
+          "빠른장보기대비거리증가율": 0.0
+        },
+        "stores": [
+          {
+            "id": "MA0101202409A0165193",
+            "name": "옛날분식",
+            "shopping_category": "분식·먹거리",
+            "smallCategory": "김밥/만두/분식",
+            "distanceM": 8,
+            "distance_zone": "중심부",
+            "directMarketMatch": false,
+            "coordinates": [
+              127.432663526744,
+              36.3289453589567
+            ]
+          },
+          {
+            "id": "MA010120220805777150",
+            "name": "설록다방",
+            "shopping_category": "카페·음료",
+            "smallCategory": "카페",
+            "distanceM": 48,
+            "distance_zone": "중심부",
+            "directMarketMatch": false,
+            "coordinates": [
+              127.433065258705,
+              36.3290880922774
+            ]
+          },
+          {
+            "id": "MA010120220805748757",
+            "name": "한밭떡집",
+            "shopping_category": "떡·한과",
+            "smallCategory": "떡/한과",
+            "distanceM": 145,
+            "distance_zone": "중간부",
+            "directMarketMatch": false,
+            "coordinates": [
+              127.433682092885,
+              36.3298608673637
+            ]
+          }
+        ]
+      },
+      "초행자 친화형": {
+        "metrics": {
+          "방문점포수": 3,
+          "총거리_m": 150,
+          "예상이동시간_분": 2.2,
+          "중심부점포수": 2,
+          "외곽부점포수": 0,
+          "직접매칭점포수": 0,
+          "빠른장보기대비거리증가율": 0.0
+        },
+        "stores": [
+          {
+            "id": "MA0101202409A0165193",
+            "name": "옛날분식",
+            "shopping_category": "분식·먹거리",
+            "smallCategory": "김밥/만두/분식",
+            "distanceM": 8,
+            "distance_zone": "중심부",
+            "directMarketMatch": false,
+            "coordinates": [
+              127.432663526744,
+              36.3289453589567
+            ]
+          },
+          {
+            "id": "MA010120220805777150",
+            "name": "설록다방",
+            "shopping_category": "카페·음료",
+            "smallCategory": "카페",
+            "distanceM": 48,
+            "distance_zone": "중심부",
+            "directMarketMatch": false,
+            "coordinates": [
+              127.433065258705,
+              36.3290880922774
+            ]
+          },
+          {
+            "id": "MA010120220805748757",
+            "name": "한밭떡집",
+            "shopping_category": "떡·한과",
+            "smallCategory": "떡/한과",
+            "distanceM": 145,
+            "distance_zone": "중간부",
+            "directMarketMatch": false,
+            "coordinates": [
+              127.433682092885,
+              36.3298608673637
+            ]
+          }
+        ]
+      },
+      "상생형": {
+        "metrics": {
+          "방문점포수": 3,
+          "총거리_m": 150,
+          "예상이동시간_분": 2.2,
+          "중심부점포수": 2,
+          "외곽부점포수": 0,
+          "직접매칭점포수": 0,
+          "빠른장보기대비거리증가율": 0.0
+        },
+        "stores": [
+          {
+            "id": "MA0101202409A0165193",
+            "name": "옛날분식",
+            "shopping_category": "분식·먹거리",
+            "smallCategory": "김밥/만두/분식",
+            "distanceM": 8,
+            "distance_zone": "중심부",
+            "directMarketMatch": false,
+            "coordinates": [
+              127.432663526744,
+              36.3289453589567
+            ]
+          },
+          {
+            "id": "MA010120220805777150",
+            "name": "설록다방",
+            "shopping_category": "카페·음료",
+            "smallCategory": "카페",
+            "distanceM": 48,
+            "distance_zone": "중심부",
+            "directMarketMatch": false,
+            "coordinates": [
+              127.433065258705,
+              36.3290880922774
+            ]
+          },
+          {
+            "id": "MA010120220805748757",
+            "name": "한밭떡집",
+            "shopping_category": "떡·한과",
+            "smallCategory": "떡/한과",
+            "distanceM": 145,
+            "distance_zone": "중간부",
+            "directMarketMatch": false,
+            "coordinates": [
+              127.433682092885,
+              36.3298608673637
+            ]
+          }
+        ]
+      }
+    }
+  },
+  {
+    "scenario": "S5",
+    "categories": [
+      "생활용품",
+      "의류·잡화",
+      "카페·음료"
+    ],
+    "routes": {
+      "빠른 장보기": {
+        "metrics": {
+          "방문점포수": 3,
+          "총거리_m": 100,
+          "예상이동시간_분": 1.5,
+          "중심부점포수": 3,
+          "외곽부점포수": 0,
+          "직접매칭점포수": 2,
+          "빠른장보기대비거리증가율": 0.0
+        },
+        "stores": [
+          {
+            "id": "MA0101202410A0448095",
+            "name": "고려당서점",
+            "shopping_category": "생활용품",
+            "smallCategory": "중고 상품 소매업",
+            "distanceM": 33,
+            "distance_zone": "중심부",
+            "directMarketMatch": true,
+            "coordinates": [
+              127.432217944898,
+              36.3289289475588
+            ]
+          },
+          {
+            "id": "MA010120220805824203",
+            "name": "대로짜치",
+            "shopping_category": "의류·잡화",
+            "smallCategory": "실/섬유제품 소매업",
+            "distanceM": 33,
+            "distance_zone": "중심부",
+            "directMarketMatch": true,
+            "coordinates": [
+              127.432217944898,
+              36.3289289475588
+            ]
+          },
+          {
+            "id": "MA0101202303A0111111",
+            "name": "한영카페",
+            "shopping_category": "카페·음료",
+            "smallCategory": "카페",
+            "distanceM": 86,
+            "distance_zone": "중심부",
+            "directMarketMatch": false,
+            "coordinates": [
+              127.431858625002,
+              36.3283985522436
+            ]
+          }
+        ]
+      },
+      "초행자 친화형": {
+        "metrics": {
+          "방문점포수": 3,
+          "총거리_m": 100,
+          "예상이동시간_분": 1.5,
+          "중심부점포수": 3,
+          "외곽부점포수": 0,
+          "직접매칭점포수": 2,
+          "빠른장보기대비거리증가율": 0.0
+        },
+        "stores": [
+          {
+            "id": "MA0101202410A0448095",
+            "name": "고려당서점",
+            "shopping_category": "생활용품",
+            "smallCategory": "중고 상품 소매업",
+            "distanceM": 33,
+            "distance_zone": "중심부",
+            "directMarketMatch": true,
+            "coordinates": [
+              127.432217944898,
+              36.3289289475588
+            ]
+          },
+          {
+            "id": "MA010120220805824203",
+            "name": "대로짜치",
+            "shopping_category": "의류·잡화",
+            "smallCategory": "실/섬유제품 소매업",
+            "distanceM": 33,
+            "distance_zone": "중심부",
+            "directMarketMatch": true,
+            "coordinates": [
+              127.432217944898,
+              36.3289289475588
+            ]
+          },
+          {
+            "id": "MA0101202303A0111111",
+            "name": "한영카페",
+            "shopping_category": "카페·음료",
+            "smallCategory": "카페",
+            "distanceM": 86,
+            "distance_zone": "중심부",
+            "directMarketMatch": false,
+            "coordinates": [
+              127.431858625002,
+              36.3283985522436
+            ]
+          }
+        ]
+      },
+      "상생형": {
+        "metrics": {
+          "방문점포수": 3,
+          "총거리_m": 116,
+          "예상이동시간_분": 1.7,
+          "중심부점포수": 2,
+          "외곽부점포수": 0,
+          "직접매칭점포수": 2,
+          "빠른장보기대비거리증가율": 16.0
+        },
+        "stores": [
+          {
+            "id": "MA0101202410A0448095",
+            "name": "고려당서점",
+            "shopping_category": "생활용품",
+            "smallCategory": "중고 상품 소매업",
+            "distanceM": 33,
+            "distance_zone": "중심부",
+            "directMarketMatch": true,
+            "coordinates": [
+              127.432217944898,
+              36.3289289475588
+            ]
+          },
+          {
+            "id": "MA010120220805824203",
+            "name": "대로짜치",
+            "shopping_category": "의류·잡화",
+            "smallCategory": "실/섬유제품 소매업",
+            "distanceM": 33,
+            "distance_zone": "중심부",
+            "directMarketMatch": true,
+            "coordinates": [
+              127.432217944898,
+              36.3289289475588
+            ]
+          },
+          {
+            "id": "MA010120220812490037",
+            "name": "싸지롱커피",
+            "shopping_category": "카페·음료",
+            "smallCategory": "카페",
+            "distanceM": 110,
+            "distance_zone": "중간부",
+            "directMarketMatch": false,
+            "coordinates": [
+              127.431458240217,
+              36.3284991276415
+            ]
+          }
+        ]
+      }
+    }
+  },
+  {
+    "scenario": "S6",
+    "categories": [
+      "과일·채소",
+      "정육",
+      "수산·건어물",
+      "반찬·식료품"
+    ],
+    "routes": {
+      "빠른 장보기": {
+        "metrics": {
+          "방문점포수": 4,
+          "총거리_m": 91,
+          "예상이동시간_분": 1.4,
+          "중심부점포수": 4,
+          "외곽부점포수": 0,
+          "직접매칭점포수": 1,
+          "빠른장보기대비거리증가율": 0.0
+        },
+        "stores": [
+          {
+            "id": "MA010120220805764263",
+            "name": "BYC왕자상회",
+            "shopping_category": "수산·건어물",
+            "smallCategory": "기타 의류 소매업",
+            "distanceM": 28,
+            "distance_zone": "중심부",
+            "directMarketMatch": false,
+            "coordinates": [
+              127.432273779511,
+              36.3289557809317
+            ]
+          },
+          {
+            "id": "MA010120220805791526",
+            "name": "헬로모모",
+            "shopping_category": "반찬·식료품",
+            "smallCategory": "기념품점",
+            "distanceM": 33,
+            "distance_zone": "중심부",
+            "directMarketMatch": true,
+            "coordinates": [
+              127.432217944898,
+              36.3289289475588
+            ]
+          },
+          {
+            "id": "MA0101202410A0317238",
+            "name": "개똥이네닭집",
+            "shopping_category": "정육",
+            "smallCategory": "정육점",
+            "distanceM": 60,
+            "distance_zone": "중심부",
+            "directMarketMatch": false,
+            "coordinates": [
+              127.432086191014,
+              36.3292718709743
+            ]
+          },
+          {
+            "id": "MA0101202310A0086802",
+            "name": "솔이네야채",
+            "shopping_category": "과일·채소",
+            "smallCategory": "채소/과일 소매업",
+            "distanceM": 77,
+            "distance_zone": "중심부",
+            "directMarketMatch": false,
+            "coordinates": [
+              127.431975516402,
+              36.3293984357168
+            ]
+          }
+        ]
+      },
+      "초행자 친화형": {
+        "metrics": {
+          "방문점포수": 4,
+          "총거리_m": 90,
+          "예상이동시간_분": 1.3,
+          "중심부점포수": 4,
+          "외곽부점포수": 0,
+          "직접매칭점포수": 2,
+          "빠른장보기대비거리증가율": -1.1
+        },
+        "stores": [
+          {
+            "id": "MA010120220805824183",
+            "name": "경성상회",
+            "shopping_category": "수산·건어물",
+            "smallCategory": "기타 의류 소매업",
+            "distanceM": 33,
+            "distance_zone": "중심부",
+            "directMarketMatch": true,
+            "coordinates": [
+              127.432217944898,
+              36.3289289475588
+            ]
+          },
+          {
+            "id": "MA010120220805791526",
+            "name": "헬로모모",
+            "shopping_category": "반찬·식료품",
+            "smallCategory": "기념품점",
+            "distanceM": 33,
+            "distance_zone": "중심부",
+            "directMarketMatch": true,
+            "coordinates": [
+              127.432217944898,
+              36.3289289475588
+            ]
+          },
+          {
+            "id": "MA0101202410A0317238",
+            "name": "개똥이네닭집",
+            "shopping_category": "정육",
+            "smallCategory": "정육점",
+            "distanceM": 60,
+            "distance_zone": "중심부",
+            "directMarketMatch": false,
+            "coordinates": [
+              127.432086191014,
+              36.3292718709743
+            ]
+          },
+          {
+            "id": "MA0101202310A0086802",
+            "name": "솔이네야채",
+            "shopping_category": "과일·채소",
+            "smallCategory": "채소/과일 소매업",
+            "distanceM": 77,
+            "distance_zone": "중심부",
+            "directMarketMatch": false,
+            "coordinates": [
+              127.431975516402,
+              36.3293984357168
+            ]
+          }
+        ]
+      },
+      "상생형": {
+        "metrics": {
+          "방문점포수": 4,
+          "총거리_m": 90,
+          "예상이동시간_분": 1.3,
+          "중심부점포수": 4,
+          "외곽부점포수": 0,
+          "직접매칭점포수": 2,
+          "빠른장보기대비거리증가율": -1.1
+        },
+        "stores": [
+          {
+            "id": "MA010120220805824183",
+            "name": "경성상회",
+            "shopping_category": "수산·건어물",
+            "smallCategory": "기타 의류 소매업",
+            "distanceM": 33,
+            "distance_zone": "중심부",
+            "directMarketMatch": true,
+            "coordinates": [
+              127.432217944898,
+              36.3289289475588
+            ]
+          },
+          {
+            "id": "MA010120220805791526",
+            "name": "헬로모모",
+            "shopping_category": "반찬·식료품",
+            "smallCategory": "기념품점",
+            "distanceM": 33,
+            "distance_zone": "중심부",
+            "directMarketMatch": true,
+            "coordinates": [
+              127.432217944898,
+              36.3289289475588
+            ]
+          },
+          {
+            "id": "MA0101202410A0317238",
+            "name": "개똥이네닭집",
+            "shopping_category": "정육",
+            "smallCategory": "정육점",
+            "distanceM": 60,
+            "distance_zone": "중심부",
+            "directMarketMatch": false,
+            "coordinates": [
+              127.432086191014,
+              36.3292718709743
+            ]
+          },
+          {
+            "id": "MA0101202310A0086802",
+            "name": "솔이네야채",
+            "shopping_category": "과일·채소",
+            "smallCategory": "채소/과일 소매업",
+            "distanceM": 77,
+            "distance_zone": "중심부",
+            "directMarketMatch": false,
+            "coordinates": [
+              127.431975516402,
+              36.3293984357168
+            ]
+          }
+        ]
+      }
+    }
+  }
+]

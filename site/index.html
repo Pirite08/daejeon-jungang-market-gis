@@ -1,0 +1,114 @@
+﻿<!doctype html>
+<html lang="ko">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>대전 중앙시장권역 점포 GIS</title>
+    <link rel="preconnect" href="https://unpkg.com" />
+    <link rel="preconnect" href="https://tile.openstreetmap.org" />
+    <link
+      rel="stylesheet"
+      href="https://unpkg.com/leaflet@1.9.4/dist/leaflet.css"
+      integrity="sha256-p4NxAoJBhIINfQ+2Zb+uB9jo7g/5wP0xQ0w5a5v1pLk="
+      crossorigin=""
+      onerror="this.onerror=null;this.href='https://cdn.jsdelivr.net/npm/leaflet@1.9.4/dist/leaflet.css';"
+    />
+    <link rel="stylesheet" href="./styles.css" />
+  </head>
+  <body>
+    <main class="app-shell">
+      <aside class="panel" aria-label="지도 필터와 점포 목록">
+        <section class="brand">
+          <p class="eyebrow">상가(상권)정보 2026.03.31</p>
+          <h1>대전 중앙시장권역 점포 GIS</h1>
+          <p class="summary" id="summaryText">데이터를 불러오는 중입니다.</p>
+        </section>
+
+        <section class="stats" aria-label="요약 통계">
+          <div>
+            <strong id="storeCount">0</strong>
+            <span>표시 점포</span>
+          </div>
+          <div>
+            <strong id="directCount">0</strong>
+            <span>시장명 직접 매칭</span>
+          </div>
+          <div>
+            <strong id="categoryCount">0</strong>
+            <span>업종 대분류</span>
+          </div>
+        </section>
+
+        <section class="controls" aria-label="검색과 필터">
+          <label class="search-label" for="searchInput">검색</label>
+          <input
+            id="searchInput"
+            type="search"
+            placeholder="상호, 업종, 주소"
+            autocomplete="off"
+          />
+
+          <div class="toggle-row">
+            <label>
+              <input id="directOnly" type="checkbox" />
+              시장명 직접 매칭만
+            </label>
+            <label>
+              <input id="showLabels" type="checkbox" checked />
+              목록 동기화
+            </label>
+          </div>
+
+          <label class="search-label" for="categorySelect">업종</label>
+          <select id="categorySelect">
+            <option value="">전체 업종</option>
+          </select>
+        </section>
+
+        <section class="breakdown" aria-label="업종 구성">
+          <h2>업종 구성</h2>
+          <div id="categoryBars"></div>
+        </section>
+
+        <section class="store-list-section" aria-label="점포 목록">
+          <div class="list-header">
+            <h2>점포 목록</h2>
+            <span id="visibleCount">0건</span>
+          </div>
+          <div id="storeList" class="store-list"></div>
+        </section>
+      </aside>
+
+      <section class="map-area" aria-label="점포 지도">
+        <div id="map"></div>
+        <div class="map-toolbar">
+          <button id="fitButton" type="button">권역 보기</button>
+          <button id="heatButton" type="button" aria-pressed="false">밀집도 보기</button>
+        </div>
+        <div id="detailCard" class="detail-card" hidden></div>
+        <div class="legend" aria-label="지도 범례">
+          <span><i class="dot direct"></i>시장명 직접 매칭</span>
+          <span><i class="dot area"></i>중앙시장권역 점포</span>
+        </div>
+      </section>
+    </main>
+
+    <script
+      src="https://unpkg.com/leaflet@1.9.4/dist/leaflet.js"
+      integrity="sha256-20nQCchB9co0qIjJZRGuk2/Z9VM+kNiyxNV1lvTlZBo="
+      crossorigin=""
+      onerror="this.onerror=null;this.src='https://cdn.jsdelivr.net/npm/leaflet@1.9.4/dist/leaflet.js';"
+    ></script>
+    <script src="./data/market-data.js"></script>
+    <script src="./app.js?v=route-visibility-2"></script>
+    <script src="./network-editor.js?v=network-editor-8"></script>
+  </body>
+</html>
+
+
+
+
+
+
+
+
