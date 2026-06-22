@@ -1,0 +1,8 @@
+analysis/
+qgis/
+scripts/
+submission_preprocessed_data/
+submission_preprocessed_data.zip
+route-optimized-final.png
+.agents/
+.codex/
